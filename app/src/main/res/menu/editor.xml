@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_editor_discard"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/discard" />
+    <item
+        android:id="@+id/item_editor_clear"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/clear" />
+    <item
+        android:id="@+id/item_editor_copy"
+        android:title="@android:string/copy" />
+    <item
+        android:id="@+id/item_editor_count"
+        android:title="@string/count_words" />
+    <item
+        android:id="@+id/item_editor_edit_lock"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:title="@null" />
+</menu>

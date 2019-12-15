@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_list_share_note"
+        android:title="" />
+    <item
+        android:id="@+id/item_list_copy_note"
+        android:title="@android:string/copy" />
+    <item
+        android:id="@+id/item_list_export_note"
+        android:title="@string/export" />
+    <item
+        android:id="@+id/item_list_delete_note"
+        android:title="@string/lock" />
+</menu>

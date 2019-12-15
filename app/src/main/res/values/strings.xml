@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Notepad</string>
+    <string name="create_note">创建记事</string>
+    <string name="about">关于</string>
+    <string name="content_null">内容为空</string>
+    <string name="body">详细内容</string>
+    <string name="about_content">一个简单的记事本应用\n制作：511721050589</string>
+    <string name="note_null">记事为空</string>
+    <string name="ctx_menu_hint">你选择的是第%d条记事</string>
+    <string name="delete_confirm">确认删除</string>
+    <string name="delete_confirm_content">你确实要删除第%d条记事吗？</string>
+    <string name="copy_note_hint">第%d条记事已复制到尾部</string>
+    <string name="discard">放弃保存</string>
+    <string name="note_discard_hint">记事已经放弃保存</string>
+    <string name="help">帮助</string>
+    <string name="note_saved">记事已保存</string>
+    <string name="help_content">通过菜单选项创建记事\n\n在编辑界面返回键退出保存记事\n\n编辑器可以锁定防止误编辑\n\n长按记事列表弹出操作菜单\n\n标题限制140字\n\n当标题和内容有一项为空时，标题会填充当前时间，填写的文本当作内容\n\n搜索是仅搜索包含关键字的标题的记事，当搜索结果为空时再搜索内容</string>
+    <string name="clear">清空</string>
+    <string name="count_words">统计字数</string>
+    <string name="count_words_content">标题：\t%d字，不计空格%d字\n内容：\t%d字，不计空格%d字</string>
+    <string name="content_copy_template">标题：%s\n内容：%s</string>
+    <string name="export">导出</string>
+    <string name="file_saved_to">文件已保存至</string>
+    <string name="lock">锁定</string>
+    <string name="unlock">解锁</string>
+</resources>
